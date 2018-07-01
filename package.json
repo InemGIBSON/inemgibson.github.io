@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InemGIBSON/alc_currency_converter.git"
+    "url": "git+https://github.com/InemGIBSON/Currency-Converter.git"
   },
   "keywords": [
     "ALC",
@@ -20,7 +20,7 @@
   "author": "Inemesit Gibson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/InemGIBSON/alc-currency-converter/issues"
+    "url": "https://github.com/InemGIBSON/Currency-Converter/issues"
   },
-  "homepage": "https://github.com/InemGIBSON/alc_currency-converter#readme"
+  "homepage": "https://github.com/InemGIBSON/Currency-Converter#readme"
 }
