@@ -1,0 +1,26 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.1",
+  "description": "ALCWithGOOGLE 7DaysOfProgramming Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InemGIBSON/alc_currency_converter.git"
+  },
+  "keywords": [
+    "ALC",
+    "Google",
+    "Converter",
+    "Currency-Converter"
+  ],
+  "author": "Inemesit Gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InemGIBSON/alc-currency-converter/issues"
+  },
+  "homepage": "https://github.com/InemGIBSON/alc_currency-converter#readme"
+}
